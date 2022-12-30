@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @procode3
+- 👋 Hi, I’m Erick Barasa
 - 🌱 I’m currently learning Fullstack Web Dev @ ALX
 - 💞️ I’m looking to collaborate on a fullstack social media clone app
 
