@@ -17,11 +17,11 @@ I'm Erick Barasa, a passionate full-stack developer with a love for crafting rob
 
 ## 🌱 Current Focus
 
-Currently, I'm currently on apprenticeship at Team Zuri building apps. Exciting times ahead!
+Currently, I'm on apprenticeship at Team Zuri. Exciting times ahead!
 
 ## 🤝 Let's Connect
 
 - 📧 Email: [wr.t8r1@gmail.com](mailto:wr.t8r1@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/erick-barasa357-61b0599b/)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/erick-barasa357-61b0599b/)
 
 Feel free to explore my repositories, provide feedback, or reach out for collaboration. Together, let's write some beautiful code! 🚀
